@@ -1,0 +1,8 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+matplotlib=3.3.4=pypi_0
+pandas=1.2.4=pypi_0
+plotly=5.4.0=pypi_0
+seaborn=0.11.1=pypi_0
+sqlalchemy=1.4.15=pypi_0
